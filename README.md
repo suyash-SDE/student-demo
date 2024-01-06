@@ -1,4 +1,4 @@
 # student-demo
 This is my first  git repository
 <br>
-Author-suyash kumar sharma 
+Author-suyash kumar (sharma) 
